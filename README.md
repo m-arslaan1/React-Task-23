@@ -1,8 +1,3 @@
-# React + Vite
+Link to visit site: "https://reactrouterdom001.netlify.app/signup";
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+As soon I learned about React Router Dom, I started making different components and on that basis I have acheived initializing my steps and completing the whole project as shown in the video for task. Also, I have tried to apply some of my innovative perspecive for building a website solely represented for user better experience.
